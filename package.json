@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/MUHSIN22/complete-e-commerce-like-amozon-with-react-js#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "react-router-dom": "^5.2.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
